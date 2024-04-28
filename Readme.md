@@ -27,9 +27,6 @@ Project aims to create your development Portfolio web page with Flex.
 
 ![Project Snapshot](./harvey_flex_portfolio.gif)
 
-## Objective
-
-Build a responsive web page similar to [Portfolio](https://harveycla.github.io/Portfolio_Page_With_Flexbox/)  
 
 ### At the end of the project, following topics are to be covered;
 
@@ -65,14 +62,5 @@ Build a responsive web page similar to [Portfolio](https://harveycla.github.io/P
 	- Set container background color and margin
 	- Define others color-size-padding etc...
 
-### Images
-[Images Folder](./images/)
 
-
-## Notes
-
-- Pay attention to the direction of the texts in the picture.
-- **Your page should be responsive web.**
-
-<p align='center'> <strong>⌛ Happy Coding  ✍ </strong></p>
 
